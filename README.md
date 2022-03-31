@@ -1,16 +1,21 @@
-### Hi there 👋
+# Diego Oliveira da Silva
 
-<!--
-**diegoSilva93/diegoSilva93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about education and technologies.
 
-Here are some ideas to get you started:
+**technologies Main of work and study:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://img.icons8.com/color/344/python--v1.png">
+  <img align="center" alt="Rafa" height="30" width="40" src="upload.wikimedia.org/wikimedia/commons/f/f3/Apache_Spark_logo.svg">
+</div>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=juniorteixeira1805"/>
+
+<br/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gilvan%20Carlos-3355cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvan-carlos/)](https://www.linkedin.com/in/gilvan-carlos/) 
+[![Gmail Badge](https://img.shields.io/badge/-juniorteixeira1805@gmail.com-3355cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juniorteixeira1805@gmail.com)](mailto:juniorteixeira1805@gmail.com)
+
+### "The greatest enemy of knowledge is not ignorance, it is the illusion os knowledger"
