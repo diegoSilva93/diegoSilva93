@@ -6,7 +6,7 @@ Passionate about education and technologies.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Icone" height="30" width="40" src="https://img.icons8.com/color/344/python--v1.png">
-  <img align="center" alt="Icone" height="30" width="40" src="upload.wikimedia.org/wikimedia/commons/f/f3/Apache_Spark_logo.svg">
+  <img align="center" alt="Icone" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:Icons8_flat_linux.svg">
 </div>
 
 <br/>
