@@ -7,9 +7,8 @@ Passionate about education and technologies.
 <div style="display: inline_block"><br>
   <img align="center" alt="Icone" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
   <img align="center" alt="Icone" height="45" width="55" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg">
-  <img align="center" alt="Icone" height="45" width="55" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
-  <img align="center" alt="Icone" height="45" width="55" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Spark-logo-192x100px.png">
-  <img align="center" alt="Icone" height="45" width="55" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg">
+  <img align="center" alt="Icone" height="45" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
+  <img align="center" alt="Icone" height="45" width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Spark-logo-192x100px.png">
 </div>
 
 <br/>
