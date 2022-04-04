@@ -6,7 +6,7 @@ Passionate about education and technologies.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Icone" height="30" width="40" src="https://img.icons8.com/color/344/python--v1.png">
-  <img align="center" alt="Icone" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:Icons8_flat_linux.svg">
+  <img align="center" alt="Icone" height="30" width="40" src="https://github.com/icons8/flat-color-icons |author = https://github.com/icons8/fl...">
 </div>
 
 <br/>
