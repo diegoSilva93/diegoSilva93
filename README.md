@@ -18,4 +18,4 @@ Passionate about education and technologies.
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Oliveira-3355cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-oliveira/)](https://www.linkedin.com/in/diegoSilva93/) 
 [![Gmail Badge](https://img.shields.io/badge/-diegooliveira.msi@gmail.com-3355cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegooliveira.msi@gmail.com)](mailto:diegooliveira.msi@gmail.com)
 
-### "The greatest enemy of knowledge is not ignorance, it is the illusion os knowledger"
+### "i don't want to believe, I want to know."
