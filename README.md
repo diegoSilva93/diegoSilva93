@@ -7,6 +7,7 @@ Passionate about education and technologies.
 <div style="display: inline_block"><br>
   <img align="center" alt="Icone" height="30" width="40" src="https://img.icons8.com/color/344/python--v1.png">
   <img align="center" alt="Icone" height="30" width="40" src="https://github.com/icons8/flat-color-icons |author = https://github.com/icons8/fl...">
+  =={{int:filedesc}}== {{Information |description = {{en|An icon from [https://github.com/icons8/flat-color-icons Flat Color Icons project]}} |date = 2017-03-05 |source = https://github.com/icons8/flat-color-icons |author = https://github.com/icons8/fl...
 </div>
 
 <br/>
