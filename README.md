@@ -5,7 +5,7 @@ Passionate about education and technologies.
 **technologies Main of work and study:**
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Icone" height="30" width="40" src="https://img.icons8.com/color/344/python--v1.png">
+  <img align="center" alt="Icone" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
   <img align="center" alt="Icone" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg">
 </div>
 
