@@ -10,6 +10,8 @@ Passionate about education and technologies.
   <img align="center" alt="Icone" height="30" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
   <img align="center" alt="Icone" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Spark-logo-192x100px.png">
   <img align="center" alt="Icone" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+  <img align="center" alt="Icone" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
+  
 </div>
 
 <br/>
