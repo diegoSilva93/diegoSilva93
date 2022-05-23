@@ -12,7 +12,7 @@ Passionate about education and technologies.
   <img align="center" alt="Icone" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="Icone" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
   <img align="center" alt="Icone" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg">
-  <img align="center" alt="Icone" height="40" width="45" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Github.com-SunghanKim.png">
+  <img align="center" alt="Icone" height="40" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Github.com-SunghanKim.png">
   
 </div>
 
