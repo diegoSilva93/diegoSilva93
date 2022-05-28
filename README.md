@@ -2,7 +2,7 @@
 
 Passionate about education and technologies.
 
-My name is Diego Oliveira. I'm student science and technology course at UFRN, I have technical course complete in IT maintenance and support by the IFPB and technical course in industrial automation by the UFRN, as well as complete course in data scientist by the Data Science Academy. Currently i'm wanna specialize in Data Science and Machine Learning Enginner.
+My name is Diego Oliveira. I'm study science and technology course at Federal University of Rio Grande do Norte, I have technical course complete in IT maintenance and support by the Federal Institute of Paraíba and technical course in industrial automation by the Federal University of Rio Grande do Norte, as well as complete course in data scientist by the Data Science Academy. Currently i'm want to specialize in Data Science and Machine Learning Enginner.
 
 **technologies Main of work and study:**
 
