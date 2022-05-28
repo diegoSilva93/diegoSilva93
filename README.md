@@ -2,7 +2,7 @@
 
 Passionate about education and technologies.
 
-Me chamo Diego Oliveira. Sou estudante de Ciências e Tecnologia pela UFRN, POssuo curso completo de técnico em manutenção suporte em informática pelo IFPB e Técnico em automação pela UFRN industrial, além da formação cientista de dados pela Data Science Academy. Atualmente estou buscando me especializar em Data Science e Machine Learning Enginner.
+My name is Diego Oliveira. I'm student science and technology course at UFRN, I have technical course complete in IT maintenance and support by the IFPB and technical course in industrial automation by the UFRN, as well as complete course in data scientist by the Data Science Academy. Currently i'm wanna specialize in Data Science and Machine Learning Enginner.
 
 **technologies Main of work and study:**
 
