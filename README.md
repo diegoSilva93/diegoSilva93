@@ -1,6 +1,6 @@
 # Diego Oliveira da Silva
 
-Passionate about education and technologies.
+Passionate about education and technologies.\n
 Me chamo Diego Oliveira. Sou estudante de Ciências e Tecnologia pela UFRN, POssuo curso completo de técnico em manutenção suporte em informática pelo IFPB e Técnico em automação pela UFRN industrial, além da formação cientista de dados pela Data Science Academy. Atualmente estou buscando me especializar em Data Science e Machine Learning Enginner.
 
 **technologies Main of work and study:**
