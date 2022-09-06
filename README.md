@@ -15,6 +15,9 @@ My name is Diego Oliveira. I'm study science and technology course at Federal Un
   <img align="center" alt="Icone" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
   <img align="center" alt="Icone" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg">
   <img align="center" alt="Icone" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Git_format.png">
+  <img align="center" alt="Icone" height="30" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+  <img align="center" alt="Icone" height="30" width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
+  
   
 </div>
 
